@@ -8,8 +8,8 @@
 import Foundation
 
 struct WeatherAPI {
-    
-    static let apiKey: String = "18218701a6111c79d09a9cfe8a8d7b89"
+    // Register in WeatherAPI and obtain an APIkey then replace this field
+    static let apiKey: String = "ReplaceMeWithAnAPIKey"
 
 }
 
