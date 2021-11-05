@@ -10,5 +10,5 @@ They increase in complexity, starting with:
  - Hot Coffee App (Easy)
  - Stocks App (SwiftUI) (Medium)
  - Good Weather App (includes Bindings, Generics and Custom Dynamic Models)
-
+- TestNewsApp(MVVM design, including Combine and SwiftUI)
 
